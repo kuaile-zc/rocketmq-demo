@@ -1,0 +1,14 @@
+.idea/
+*.iml
+
+out
+
+.hsitory/
+
+target/
+
+.project
+
+
+logs/
+log/
